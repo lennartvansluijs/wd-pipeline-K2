@@ -1,0 +1,8 @@
+# # 0 kepid, 1 kepmag, 2 obsmode, 3 channel, 4 module, 5 RA, 6 DEC
+210659779
+16.521
+long cadence
+61
+18
+56.32017
+17.802151
