@@ -8,12 +8,12 @@ How to use this github:
 (4) run the short cadence pipeline (it is important to run this pipeline afterwards, since output of the long cadence pipeline is used) by going to the sc_scripts directory and using the command 'python main.py' in a terminal.
 
 More information on the content of the folders:
-- lc_data: contains two long cadence pixel target files. These are used as examples to illustrate the performance of the pipeline. The input is pixel files which can be downloaded from the MAST database (https://archive.stsci.edu/k2/data_search/search.php). 
-- sc_data: contains two short cadence pixel target files. These are used as examples to illustrate the performance of the pipeline.  The input is pixel files which can be downloaded from the MAST database (https://archive.stsci.edu/k2/data_search/search.php).
+- lc_data: contains two long cadence pixel target files. These are used as examples to illustrate the performance of the pipeline. The input is pixel files which can be downloaded from the MAST database (https://archive.stsci.edu/k2/data_search/search.php). The short cadence data is too big for GitHub, but the corresponding light curves can be downloaded the MAST database as well, and processed similarly to the long cadence light curves.
 - lc_output: folder where the long cadence output of the pipeline is stored.
 - sc_output: folder where the short cadence output of the pipeline is stored.
 - lc_scripts: python scripts which make up the long cadence pipeline. To run the pipeline use the command 'python main.py' while in this folder.
 - sc-scripts: python scripts which make up the short cadence pipeline. To run the pipeline use the command 'python main.py' while in this folder.
+- found_eclipsing_objects: all reduced files of the eclipsing objects found.
 
 Feel free to use and modify the code here!
 
