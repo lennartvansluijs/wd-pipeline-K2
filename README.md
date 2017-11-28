@@ -3,7 +3,7 @@ K2 photometry optimized for WDs which reads, reduces and detrends pixel target f
 
 Feel free to use and modify the code here!
 
-This pipeline is accompanied with a paper currently accepted to MNRAS which can be found on arxiv https://arxiv.org/abs/1711.09691. If you found the data or pipeline presented here useful please reference this publication in future work.
+This pipeline is accompanied with a paper currently accepted to MNRAS which can be found on arxiv (https://arxiv.org/abs/1711.09691). If you found the data or pipeline presented here useful please reference this publication in future work.
 
 How to use this github:
 (1) download all files as a zip
