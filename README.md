@@ -1,6 +1,10 @@
 # WD pipeline K2
 K2 photometry optimized for WDs which reads, reduces and detrends pixel target files and search for transiting/eclipsing planets and other substellar bodies.
 
+Feel free to use and modify the code here!
+
+This pipeline is accompanied with a paper currently accepted to MNRAS which can be found on arxiv https://arxiv.org/abs/1711.09691. If you found the data or pipeline presented here useful please reference this publication in future work.
+
 How to use this github:
 (1) download all files as a zip
 (2) unpack the zip file
@@ -14,8 +18,6 @@ More information on the content of the folders:
 - lc_scripts: python scripts which make up the long cadence pipeline. To run the pipeline use the command 'python main.py' while in this folder.
 - sc-scripts: python scripts which make up the short cadence pipeline. To run the pipeline use the command 'python main.py' while in this folder.
 - found_eclipsing_objects: all reduced files of the eclipsing objects found.
-
-Feel free to use and modify the code here!
 
 For questions or commends please send an email vansluijs@strw.leidenuniv.nl.
 
